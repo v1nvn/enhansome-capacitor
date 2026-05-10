@@ -1379,7 +1379,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-06T14:16:15Z",
+            "last_commit": "2026-05-09T15:03:44Z",
             "owner": "Cap-go",
             "repo": "capacitor-background-geolocation",
             "stars": 15
@@ -1534,7 +1534,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-08T19:00:33Z",
+            "last_commit": "2026-05-09T11:19:41Z",
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
             "stars": 122
@@ -1817,7 +1817,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-05-06T12:08:16Z",
+            "last_commit": "2026-05-09T14:26:55Z",
             "owner": "Cap-go",
             "repo": "capacitor-streamcall",
             "stars": 10
@@ -2023,7 +2023,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-04T07:09:25Z",
+            "last_commit": "2026-05-09T20:01:40Z",
             "owner": "Cap-go",
             "repo": "capacitor-intent-launcher",
             "stars": 6
@@ -2651,7 +2651,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-08T16:53:28Z",
+            "last_commit": "2026-05-10T00:36:08Z",
             "owner": "RevenueCat",
             "repo": "purchases-capacitor",
             "stars": 231
@@ -3070,7 +3070,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-09T00:38:40Z",
+            "last_commit": "2026-05-09T17:43:38Z",
             "owner": "getsentry",
             "repo": "sentry-capacitor",
             "stars": 145
@@ -3690,7 +3690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:18:03.222Z",
+    "last_updated": "2026-05-10T05:33:24.284Z",
     "original_repository": "riderx/awesome-capacitor",
     "source_repository": "v1nvn/enhansome-capacitor",
     "source_repository_description": null,
