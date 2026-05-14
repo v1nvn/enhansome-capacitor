@@ -40,27 +40,27 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 
 ## Official plugins
 
-Official plugins for [Capacitor](https://github.com/ionic-team/capacitor-plugins) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 and maintained by Ionic are listed here.
+Official plugins for [Capacitor](https://github.com/ionic-team/capacitor-plugins) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 and maintained by Ionic are listed here.
 
-* [Action Sheet](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides access to native Action Sheets.
-* [App](https://github.com/ionic-team/capacitor-plugins/tree/main/app) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Handles high-level App state and events.
-* [App Launcher](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Allows to check if an app can be opened and open it.
-* [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides the ability to open an in-app browser and subscribe to browser events.
-* [Camera](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides the ability to take a photo with the camera or choose an existing one from the photo album.
-* [Clipboard](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Enables copy and pasting to/from the system clipboard.
-* [Device](https://github.com/ionic-team/capacitor-plugins/tree/main/device) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
-* [Dialog](https://github.com/ionic-team/capacitor-plugins/tree/main/dialog) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
-* [Local Notifications](https://github.com/ionic-team/capacitor-plugins/tree/main/local-notifications) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides a way to schedule device notifications locally (i.e. without a server sending push notifications).
-* [Motion](https://github.com/ionic-team/capacitor-plugins/tree/main/motion) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Tracks accelerometer and device orientation (compass heading, etc.).
-* [Network](https://github.com/ionic-team/capacitor-plugins/tree/main/network) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides network and connectivity information.
-* [Preferences](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides a simple key/value persistent store for lightweight data, ex Storage.
-* [Push Notifications](https://github.com/ionic-team/capacitor-plugins/tree/main/push-notifications) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides access to native push notifications.
-* [Screen Reader](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
-* [Share](https://github.com/ionic-team/capacitor-plugins/tree/main/share) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides methods for sharing content in any sharing-enabled apps the user may have installed.
-* [Splash Screen](https://github.com/ionic-team/capacitor-plugins/tree/main/splash-screen) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides methods for showing or hiding a Splash image.
-* [Status Bar](https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides methods for configuring the style of the Status Bar, along with showing or hiding it.
-* [Text Zoom](https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides the ability to change Web View text size for visual accessibility.
-* [Toast](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) ⭐ 661 | 🐛 52 | 🌐 Java | 📅 2026-05-12 - Provides a native notification pop up for displaying important information to a user.
+* [Action Sheet](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides access to native Action Sheets.
+* [App](https://github.com/ionic-team/capacitor-plugins/tree/main/app) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Handles high-level App state and events.
+* [App Launcher](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Allows to check if an app can be opened and open it.
+* [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides the ability to open an in-app browser and subscribe to browser events.
+* [Camera](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides the ability to take a photo with the camera or choose an existing one from the photo album.
+* [Clipboard](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Enables copy and pasting to/from the system clipboard.
+* [Device](https://github.com/ionic-team/capacitor-plugins/tree/main/device) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
+* [Dialog](https://github.com/ionic-team/capacitor-plugins/tree/main/dialog) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
+* [Local Notifications](https://github.com/ionic-team/capacitor-plugins/tree/main/local-notifications) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides a way to schedule device notifications locally (i.e. without a server sending push notifications).
+* [Motion](https://github.com/ionic-team/capacitor-plugins/tree/main/motion) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Tracks accelerometer and device orientation (compass heading, etc.).
+* [Network](https://github.com/ionic-team/capacitor-plugins/tree/main/network) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides network and connectivity information.
+* [Preferences](https://github.com/ionic-team/capacitor-plugins/tree/main/preferences) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides a simple key/value persistent store for lightweight data, ex Storage.
+* [Push Notifications](https://github.com/ionic-team/capacitor-plugins/tree/main/push-notifications) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides access to native push notifications.
+* [Screen Reader](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
+* [Share](https://github.com/ionic-team/capacitor-plugins/tree/main/share) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides methods for sharing content in any sharing-enabled apps the user may have installed.
+* [Splash Screen](https://github.com/ionic-team/capacitor-plugins/tree/main/splash-screen) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides methods for showing or hiding a Splash image.
+* [Status Bar](https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides methods for configuring the style of the Status Bar, along with showing or hiding it.
+* [Text Zoom](https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides the ability to change Web View text size for visual accessibility.
+* [Toast](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) ⭐ 661 | 🐛 54 | 🌐 Java | 📅 2026-05-13 - Provides a native notification pop up for displaying important information to a user.
 * [Geolocation](https://github.com/ionic-team/capacitor-geolocation) ⭐ 12 | 🐛 8 | 🌐 Swift | 📅 2026-05-11 - Provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.
 * [File system](https://github.com/ionic-team/capacitor-filesystem) ⭐ 6 | 🐛 28 | 🌐 TypeScript | 📅 2026-05-11 - Provides a NodeJS-like API for working with files on the device.
 * [Keyboard](https://github.com/ionic-team/capacitor-keyboard) ⭐ 2 | 🐛 42 | 🌐 TypeScript | 📅 2026-05-11 - Provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
@@ -70,9 +70,9 @@ Official plugins for [Capacitor](https://github.com/ionic-team/capacitor-plugins
 
 Community plugins owned by [Capacitor organisation](https://github.com/capacitor-community) and maintained by selected community member are listed here.
 
-* [SQLite](https://github.com/capacitor-community/sqlite) ⭐ 656 | 🐛 32 | 🌐 Swift | 📅 2026-03-30 - Native & electron SQLite databases.
+* [SQLite](https://github.com/capacitor-community/sqlite) ⭐ 655 | 🐛 32 | 🌐 Swift | 📅 2026-03-30 - Native & electron SQLite databases.
 * [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) ⚠️ Archived - A fast and efficient QR / barcode scanner for Capacitor.
-* [Electron](https://github.com/capacitor-community/electron) ⭐ 395 | 🐛 67 | 🌐 TypeScript | 📅 2024-05-22 - Support for the Electron platform.
+* [Electron](https://github.com/capacitor-community/electron) ⭐ 394 | 🐛 66 | 🌐 TypeScript | 📅 2024-05-22 - Support for the Electron platform.
 * [Bluetooth-le](https://github.com/capacitor-community/bluetooth-le) ⭐ 355 | 🐛 46 | 🌐 TypeScript | 📅 2026-03-11 - Bluetooth Low Energy.
 * [Admob](https://github.com/capacitor-community/admob) ⭐ 284 | 🐛 63 | 🌐 Java | 📅 2026-05-12 - A native plugin for AdMob.
 * Firebase
@@ -82,7 +82,7 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
   * [Remote config](https://github.com/capacitor-community/firebase-remote-config) ⚠️ Archived - A native plugin for Firebase remote config.
 * [React hooks](https://github.com/capacitor-community/react-hooks) ⭐ 266 | 🐛 22 | 🌐 TypeScript | 📅 2023-02-28 - Hooks for using Capacitor plugins in React apps.
 * [Background geolocation](https://github.com/capacitor-community/background-geolocation) ⭐ 243 | 🐛 26 | 🌐 Java | 📅 2025-08-28 - Receive geolocation updates even while app is backgrounded.
-* [Stripe](https://github.com/capacitor-community/stripe) ⭐ 243 | 🐛 17 | 🌐 Kotlin | 📅 2026-04-01 - SDK bindings for payment processing in Capacitor Applications.
+* [Stripe](https://github.com/capacitor-community/stripe) ⭐ 243 | 🐛 19 | 🌐 Kotlin | 📅 2026-04-01 - SDK bindings for payment processing in Capacitor Applications.
 * [Camera preview](https://github.com/capacitor-community/camera-preview) ⭐ 227 | 🐛 89 | 🌐 Java | 📅 2026-04-17 - Native camera preview with custom controls.
 * [Http](https://github.com/capacitor-community/http) ⚠️ Archived - A native HTTP plugin for CORS-free requests and file transfers.
 * [Keep awake](https://github.com/capacitor-community/keep-awake) ⭐ 174 | 🐛 10 | 🌐 Swift | 📅 2026-04-23 - Prevent your screen from getting some sleep.
@@ -120,161 +120,161 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 
 ### Core & Updates
 
-* [Updater](https://github.com/Cap-go/capacitor-updater) ⭐ 759 | 🐛 13 | 🌐 Java | 📅 2026-05-12 - Live update for capacitor apps.
-* [Live Reload](https://github.com/Cap-go/capacitor-live-reload) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2026-05-12 - Reload Capacitor apps from a remote Vite dev server.
+* [Updater](https://github.com/Cap-go/capacitor-updater) ⭐ 760 | 🐛 16 | 🌐 Java | 📅 2026-05-13 - Live update for capacitor apps.
+* [Live Reload](https://github.com/Cap-go/capacitor-live-reload) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2026-05-13 - Reload Capacitor apps from a remote Vite dev server.
 
 ### Device & Sensors
 
-* [Shake](https://github.com/Cap-go/capacitor-shake) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Detect shake gesture in device.
-* [Mute](https://github.com/Cap-go/capacitor-mute) ⭐ 12 | 🐛 3 | 🌐 Swift | 📅 2026-05-12 - Detect if the mute switch is enabled/disabled on a device.
-* [Pedometer](https://github.com/Cap-go/capacitor-pedometer) ⭐ 9 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Access pedometer data including steps, distance, pace, cadence, and floors.
-* [SIM](https://github.com/Cap-go/capacitor-sim) ⭐ 8 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Get information from device's sim cards.
-* [Accelerometer](https://github.com/Cap-go/capacitor-accelerometer) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Read device accelerometer measurements.
-* [Barometer](https://github.com/Cap-go/capacitor-barometer) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-12 - Access device barometer readings.
-* [Compass](https://github.com/Cap-go/capacitor-compass) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2026-05-12 - Native compass heading plugin.
-* [Volume Buttons](https://github.com/Cap-go/capacitor-volume-buttons) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-12 - Listen to volume button presses.
-* [Brightness](https://github.com/Cap-go/capacitor-brightness) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-12 - Control screen brightness on iOS and Android.
-* [Light Sensor](https://github.com/Cap-go/capacitor-light-sensor) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-12 - Access the device light sensor (Android only).
-* [Age Range](https://github.com/Cap-go/capacitor-age-range) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-05-12 - Cross-platform age range detection for Android and iOS.
+* [Shake](https://github.com/Cap-go/capacitor-shake) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Detect shake gesture in device.
+* [Mute](https://github.com/Cap-go/capacitor-mute) ⭐ 12 | 🐛 3 | 🌐 Swift | 📅 2026-05-13 - Detect if the mute switch is enabled/disabled on a device.
+* [Pedometer](https://github.com/Cap-go/capacitor-pedometer) ⭐ 9 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Access pedometer data including steps, distance, pace, cadence, and floors.
+* [SIM](https://github.com/Cap-go/capacitor-sim) ⭐ 8 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Get information from device's sim cards.
+* [Accelerometer](https://github.com/Cap-go/capacitor-accelerometer) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Read device accelerometer measurements.
+* [Barometer](https://github.com/Cap-go/capacitor-barometer) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-13 - Access device barometer readings.
+* [Compass](https://github.com/Cap-go/capacitor-compass) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - Native compass heading plugin.
+* [Volume Buttons](https://github.com/Cap-go/capacitor-volume-buttons) ⭐ 5 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-13 - Listen to volume button presses.
+* [Brightness](https://github.com/Cap-go/capacitor-brightness) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-13 - Control screen brightness on iOS and Android.
+* [Light Sensor](https://github.com/Cap-go/capacitor-light-sensor) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-13 - Access the device light sensor (Android only).
+* [Age Range](https://github.com/Cap-go/capacitor-age-range) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - Cross-platform age range detection for Android and iOS.
 
 ### Camera & Media
 
-* [Native Audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 71 | 🐛 4 | 🌐 Java | 📅 2026-05-12 - A native plugin for native audio engine.
-* [Camera Preview](https://github.com/Cap-go/capacitor-camera-preview) ⭐ 41 | 🐛 10 | 🌐 Java | 📅 2026-05-12 - Native camera preview with custom controls.
-* [Screen Recorder](https://github.com/Cap-go/capacitor-screen-recorder) ⭐ 23 | 🐛 9 | 🌐 Swift | 📅 2026-05-12 - Record device's screen.
-* [Document Scanner](https://github.com/Cap-go/capacitor-document-scanner) ⭐ 19 | 🐛 3 | 🌐 Swift | 📅 2026-05-12 - Scan documents on iOS and Android.
-* [Audio Recorder](https://github.com/Cap-go/capacitor-audio-recorder) ⭐ 9 | 🐛 0 | 🌐 Swift | 📅 2026-05-12 - Record audio on iOS, Android, and Web.
-* [Video Player](https://github.com/Cap-go/capacitor-video-player) ⭐ 9 | 🐛 16 | 🌐 Java | 📅 2026-05-12 - Play video in native player.
-* [IVS Player](https://github.com/Cap-go/capacitor-ivs-player) ⭐ 8 | 🐛 3 | 🌐 Java | 📅 2026-05-12 - Amazon IVS player for Capacitor apps.
-* [Photo Library](https://github.com/Cap-go/capacitor-photo-library) ⭐ 7 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Display photo gallery as web page or native screen.
-* [FFmpeg](https://github.com/Cap-go/capacitor-ffmpeg) ⭐ 7 | 🐛 3 | 🌐 JavaScript | 📅 2026-05-12 - Exposes the FFmpeg API to Capacitor.
-* [JW Player](https://github.com/Cap-go/capacitor-jw-player) ⭐ 7 | 🐛 3 | 🌐 Swift | 📅 2026-05-12 - Play videos from jwplayer.com.
-* [Mux Player](https://github.com/Cap-go/capacitor-mux-player) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2026-05-12 - Native Mux Player SDK to play video on iOS and Android.
-* [Audio Session](https://github.com/Cap-go/capacitor-audiosession) ⭐ 6 | 🐛 4 | 🌐 Swift | 📅 2026-05-12 - Get notified about audio interrupts & route changes on iOS.
-* [Media Session](https://github.com/Cap-go/capacitor-media-session) ⭐ 6 | 🐛 3 | 🌐 Java | 📅 2026-05-12 - Expose media session controls of the device.
-* [YouTube Player](https://github.com/Cap-go/capacitor-youtube-player) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-12 - Embed YouTube player controls in Capacitor apps.
-* [Video Thumbnails](https://github.com/Cap-go/capacitor-video-thumbnails) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-12 - Generate video thumbnails from local or remote video files.
+* [Native Audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 71 | 🐛 3 | 🌐 Java | 📅 2026-05-13 - A native plugin for native audio engine.
+* [Camera Preview](https://github.com/Cap-go/capacitor-camera-preview) ⭐ 41 | 🐛 12 | 🌐 Java | 📅 2026-05-14 - Native camera preview with custom controls.
+* [Screen Recorder](https://github.com/Cap-go/capacitor-screen-recorder) ⭐ 23 | 🐛 9 | 🌐 Swift | 📅 2026-05-13 - Record device's screen.
+* [Document Scanner](https://github.com/Cap-go/capacitor-document-scanner) ⭐ 19 | 🐛 3 | 🌐 Swift | 📅 2026-05-13 - Scan documents on iOS and Android.
+* [Audio Recorder](https://github.com/Cap-go/capacitor-audio-recorder) ⭐ 9 | 🐛 0 | 🌐 Swift | 📅 2026-05-13 - Record audio on iOS, Android, and Web.
+* [Video Player](https://github.com/Cap-go/capacitor-video-player) ⭐ 9 | 🐛 16 | 🌐 Java | 📅 2026-05-13 - Play video in native player.
+* [IVS Player](https://github.com/Cap-go/capacitor-ivs-player) ⭐ 8 | 🐛 3 | 🌐 Java | 📅 2026-05-13 - Amazon IVS player for Capacitor apps.
+* [Photo Library](https://github.com/Cap-go/capacitor-photo-library) ⭐ 7 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Display photo gallery as web page or native screen.
+* [FFmpeg](https://github.com/Cap-go/capacitor-ffmpeg) ⭐ 7 | 🐛 3 | 🌐 JavaScript | 📅 2026-05-13 - Exposes the FFmpeg API to Capacitor.
+* [JW Player](https://github.com/Cap-go/capacitor-jw-player) ⭐ 7 | 🐛 3 | 🌐 Swift | 📅 2026-05-13 - Play videos from jwplayer.com.
+* [Mux Player](https://github.com/Cap-go/capacitor-mux-player) ⭐ 7 | 🐛 0 | 🌐 Swift | 📅 2026-05-13 - Native Mux Player SDK to play video on iOS and Android.
+* [Audio Session](https://github.com/Cap-go/capacitor-audiosession) ⭐ 6 | 🐛 4 | 🌐 Swift | 📅 2026-05-13 - Get notified about audio interrupts & route changes on iOS.
+* [Media Session](https://github.com/Cap-go/capacitor-media-session) ⭐ 6 | 🐛 3 | 🌐 Java | 📅 2026-05-13 - Expose media session controls of the device.
+* [YouTube Player](https://github.com/Cap-go/capacitor-youtube-player) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-13 - Embed YouTube player controls in Capacitor apps.
+* [Video Thumbnails](https://github.com/Cap-go/capacitor-video-thumbnails) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-13 - Generate video thumbnails from local or remote video files.
 
 ### Storage & Files
 
-* [Data Storage SQLite](https://github.com/Cap-go/capacitor-data-storage-sqlite) ⭐ 100 | 🐛 6 | 🌐 Swift | 📅 2026-05-12 - SQLite Storage of key/value strings pair.
-* [Uploader](https://github.com/Cap-go/capacitor-uploader) ⭐ 23 | 🐛 5 | 🌐 Java | 📅 2026-05-12 - Upload file natively.
-* [Fast SQL](https://github.com/Cap-go/capacitor-fast-sql) ⭐ 13 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-12 - High-performance native SQLite plugin with custom protocol for efficient sync operations.
-* [Downloader](https://github.com/Cap-go/capacitor-downloader) ⭐ 8 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Download file in background or foreground.
-* [File Compressor](https://github.com/Cap-go/capacitor-file-compressor) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Efficient image compression supporting PNG, JPEG, and WebP formats.
-* [File Picker](https://github.com/Cap-go/capacitor-file-picker) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2026-05-12 - Pick files, images, videos, and directories.
-* [File](https://github.com/Cap-go/capacitor-file) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-12 - System operations compatible with Cordova File plugin API.
-* [Zip](https://github.com/Cap-go/capacitor-zip) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-12 - Zipping and unzipping files on iOS, Android, and Web.
+* [Data Storage SQLite](https://github.com/Cap-go/capacitor-data-storage-sqlite) ⭐ 100 | 🐛 6 | 🌐 Swift | 📅 2026-05-13 - SQLite Storage of key/value strings pair.
+* [Uploader](https://github.com/Cap-go/capacitor-uploader) ⭐ 23 | 🐛 5 | 🌐 Java | 📅 2026-05-13 - Upload file natively.
+* [Fast SQL](https://github.com/Cap-go/capacitor-fast-sql) ⭐ 13 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-13 - High-performance native SQLite plugin with custom protocol for efficient sync operations.
+* [Downloader](https://github.com/Cap-go/capacitor-downloader) ⭐ 8 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Download file in background or foreground.
+* [File Compressor](https://github.com/Cap-go/capacitor-file-compressor) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Efficient image compression supporting PNG, JPEG, and WebP formats.
+* [File Picker](https://github.com/Cap-go/capacitor-file-picker) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - Pick files, images, videos, and directories.
+* [File](https://github.com/Cap-go/capacitor-file) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-13 - System operations compatible with Cordova File plugin API.
+* [Zip](https://github.com/Cap-go/capacitor-zip) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-13 - Zipping and unzipping files on iOS, Android, and Web.
 
 ### Location & Navigation
 
-* [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) ⭐ 39 | 🐛 3 | 🌐 Swift | 📅 2026-05-12 - Native forward and reverse geocoding.
-* [Background Geolocation](https://github.com/Cap-go/capacitor-background-geolocation) ⭐ 16 | 🐛 3 | 🌐 Java | 📅 2026-05-12 - Receive accurate geolocation updates even while the app is in the background.
-* [Launch Navigator](https://github.com/Cap-go/capacitor-launch-navigator) ⭐ 7 | 🐛 3 | 🌐 Swift | 📅 2026-05-12 - Launch native route navigation apps for Android and iOS.
+* [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) ⭐ 39 | 🐛 3 | 🌐 Swift | 📅 2026-05-13 - Native forward and reverse geocoding.
+* [Background Geolocation](https://github.com/Cap-go/capacitor-background-geolocation) ⭐ 16 | 🐛 2 | 🌐 Java | 📅 2026-05-13 - Receive accurate geolocation updates even while the app is in the background.
+* [Launch Navigator](https://github.com/Cap-go/capacitor-launch-navigator) ⭐ 7 | 🐛 3 | 🌐 Swift | 📅 2026-05-13 - Launch native route navigation apps for Android and iOS.
 
 ### Authentication & Security
 
-* [Social Login](https://github.com/Cap-go/capacitor-social-login) ⭐ 205 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-12 - All social logins in one plugin.
-* [Native Biometric](https://github.com/Cap-go/capacitor-native-biometric) ⭐ 72 | 🐛 6 | 🌐 Java | 📅 2026-05-12 - Access native biometric APIs for Android and iOS.
-* [Autofill Save Password](https://github.com/Cap-go/capacitor-autofill-save-password) ⭐ 12 | 🐛 2 | 🌐 Swift | 📅 2026-05-12 - Prompt to save login into device password manager.
-* [Is Root](https://github.com/Cap-go/capacitor-is-root) ⭐ 9 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Jailbreak/Root Detection Plugin.
-* [Persistent Account](https://github.com/Cap-go/capacitor-persistent-account) ⭐ 8 | 🐛 2 | 🌐 Swift | 📅 2026-05-12 - Securely store account information for a user.
-* [App Attest](https://github.com/Cap-go/capacitor-app-attest) ⭐ 3 | 🐛 3 | 🌐 Swift | 📅 2026-05-12 - Device attestation with Apple App Attest (iOS) and Play Integrity (Android).
-* [App Tracking Transparency](https://github.com/Cap-go/capacitor-app-tracking-transparency) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-12 - Request ATT authorization for tracking on iOS.
-* [Persona](https://github.com/Cap-go/capacitor-persona) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-05-12 - Launch Persona inquiry flows on iOS and Android.
+* [Social Login](https://github.com/Cap-go/capacitor-social-login) ⭐ 205 | 🐛 11 | 🌐 TypeScript | 📅 2026-05-13 - All social logins in one plugin.
+* [Native Biometric](https://github.com/Cap-go/capacitor-native-biometric) ⭐ 72 | 🐛 7 | 🌐 Java | 📅 2026-05-13 - Access native biometric APIs for Android and iOS.
+* [Autofill Save Password](https://github.com/Cap-go/capacitor-autofill-save-password) ⭐ 12 | 🐛 2 | 🌐 Swift | 📅 2026-05-13 - Prompt to save login into device password manager.
+* [Is Root](https://github.com/Cap-go/capacitor-is-root) ⭐ 9 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Jailbreak/Root Detection Plugin.
+* [Persistent Account](https://github.com/Cap-go/capacitor-persistent-account) ⭐ 8 | 🐛 2 | 🌐 Swift | 📅 2026-05-13 - Securely store account information for a user.
+* [App Attest](https://github.com/Cap-go/capacitor-app-attest) ⭐ 4 | 🐛 3 | 🌐 Swift | 📅 2026-05-13 - Device attestation with Apple App Attest (iOS) and Play Integrity (Android).
+* [App Tracking Transparency](https://github.com/Cap-go/capacitor-app-tracking-transparency) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-13 - Request ATT authorization for tracking on iOS.
+* [Persona](https://github.com/Cap-go/capacitor-persona) ⭐ 2 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - Launch Persona inquiry flows on iOS and Android.
 
 ### UI & Display
 
-* [In App Browser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 123 | 🐛 19 | 🌐 Java | 📅 2026-05-12 - Native in-app browser for secure web content.
-* [Navigation Bar](https://github.com/Cap-go/capacitor-navigation-bar) ⭐ 23 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-12 - Set navigation bar color for Android Lollipop and higher.
-* [Flash](https://github.com/Cap-go/capacitor-flash) ⭐ 21 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Switch the Flashlight / Torch of your device.
-* [Home Indicator](https://github.com/Cap-go/capacitor-home-indicator) ⭐ 7 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Hide and show home button indicator in Capacitor app.
-* [PDF Generator](https://github.com/Cap-go/capacitor-pdf-generator) ⭐ 7 | 🐛 2 | 🌐 Java | 📅 2026-05-12 - Generate PDF files from HTML strings or URLs.
-* [Text Interaction](https://github.com/Cap-go/capacitor-textinteraction) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Toggle text interaction in Capacitor based iOS apps.
-* [Printer](https://github.com/Cap-go/capacitor-printer) ⭐ 6 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-12 - Print documents, HTML, PDFs, images and web views.
-* [Keep Awake](https://github.com/Cap-go/capacitor-keep-awake) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-12 - Prevent the device screen from dimming or sleeping.
-* [Transitions](https://github.com/Cap-go/capacitor-transitions) ⭐ 5 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-12 - Framework-agnostic page transitions for Capacitor apps - iOS-style navigation.
-* [Screen Orientation](https://github.com/Cap-go/capacitor-screen-orientation) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-12 - Control device orientation with support for bypassing orientation lock.
+* [In App Browser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 123 | 🐛 18 | 🌐 Java | 📅 2026-05-13 - Native in-app browser for secure web content.
+* [Navigation Bar](https://github.com/Cap-go/capacitor-navigation-bar) ⭐ 23 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-13 - Set navigation bar color for Android Lollipop and higher.
+* [Flash](https://github.com/Cap-go/capacitor-flash) ⭐ 21 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Switch the Flashlight / Torch of your device.
+* [Home Indicator](https://github.com/Cap-go/capacitor-home-indicator) ⭐ 7 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Hide and show home button indicator in Capacitor app.
+* [PDF Generator](https://github.com/Cap-go/capacitor-pdf-generator) ⭐ 7 | 🐛 2 | 🌐 Java | 📅 2026-05-13 - Generate PDF files from HTML strings or URLs.
+* [Text Interaction](https://github.com/Cap-go/capacitor-textinteraction) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Toggle text interaction in Capacitor based iOS apps.
+* [Printer](https://github.com/Cap-go/capacitor-printer) ⭐ 6 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-13 - Print documents, HTML, PDFs, images and web views.
+* [Keep Awake](https://github.com/Cap-go/capacitor-keep-awake) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-13 - Prevent the device screen from dimming or sleeping.
+* [Transitions](https://github.com/Cap-go/capacitor-transitions) ⭐ 5 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-13 - Framework-agnostic page transitions for Capacitor apps - iOS-style navigation.
+* [Screen Orientation](https://github.com/Cap-go/capacitor-screen-orientation) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-13 - Control device orientation with support for bypassing orientation lock.
 * [Live Activities](https://github.com/Cap-go/capacitor-live-activities) - Manage iOS Live Activities from Capacitor.
 
 ### Purchases & Payments
 
-* [Native Purchases](https://github.com/Cap-go/capacitor-native-purchases) ⭐ 43 | 🐛 6 | 🌐 Java | 📅 2026-05-12 - In-app Subscriptions Made Easy.
-* [Pay](https://github.com/Cap-go/capacitor-pay) ⭐ 9 | 🐛 3 | 🌐 Swift | 📅 2026-05-12 - Trigger native payment for iOS (Apple Pay) and Android (Google Pay).
+* [Native Purchases](https://github.com/Cap-go/capacitor-native-purchases) ⭐ 43 | 🐛 5 | 🌐 Java | 📅 2026-05-13 - In-app Subscriptions Made Easy.
+* [Pay](https://github.com/Cap-go/capacitor-pay) ⭐ 9 | 🐛 3 | 🌐 Swift | 📅 2026-05-13 - Trigger native payment for iOS (Apple Pay) and Android (Google Pay).
 
 ### Communication & Messaging
 
-* [NFC](https://github.com/Cap-go/capacitor-nfc) ⭐ 21 | 🐛 3 | 🌐 Java | 📅 2026-05-12 - Native NFC tag discovery, reading and writing for iOS and Android.
-* [Crisp](https://github.com/Cap-go/capacitor-crisp) ⭐ 15 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Native SDK for customer messaging and chat support.
-* [Speech Recognition](https://github.com/Cap-go/capacitor-speech-recognition) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2026-05-12 - Comprehensive on-device speech recognition with live partial results.
-* [WiFi](https://github.com/Cap-go/capacitor-wifi) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2026-05-12 - Manage WiFi connectivity for your Capacitor app.
-* [iBeacon](https://github.com/Cap-go/capacitor-ibeacon) ⭐ 8 | 🐛 4 | 🌐 Java | 📅 2026-05-12 - Proximity detection and beacon region monitoring.
-* [Bluetooth Low Energy](https://github.com/Cap-go/capacitor-bluetooth-low-energy) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-12 - BLE plugin with support for scanning, connecting, reading, writing, and notifications.
-* [Speech Synthesis](https://github.com/Cap-go/capacitor-speech-synthesis) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-12 - Synthesize speech from text with full control over language, voice, pitch, rate, and volume.
-* [Intercom](https://github.com/Cap-go/capacitor-intercom) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Intercom SDK integration for Capacitor apps.
+* [NFC](https://github.com/Cap-go/capacitor-nfc) ⭐ 21 | 🐛 3 | 🌐 Java | 📅 2026-05-13 - Native NFC tag discovery, reading and writing for iOS and Android.
+* [Crisp](https://github.com/Cap-go/capacitor-crisp) ⭐ 15 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Native SDK for customer messaging and chat support.
+* [Speech Recognition](https://github.com/Cap-go/capacitor-speech-recognition) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - Comprehensive on-device speech recognition with live partial results.
+* [WiFi](https://github.com/Cap-go/capacitor-wifi) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - Manage WiFi connectivity for your Capacitor app.
+* [iBeacon](https://github.com/Cap-go/capacitor-ibeacon) ⭐ 8 | 🐛 4 | 🌐 Java | 📅 2026-05-13 - Proximity detection and beacon region monitoring.
+* [Bluetooth Low Energy](https://github.com/Cap-go/capacitor-bluetooth-low-energy) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-13 - BLE plugin with support for scanning, connecting, reading, writing, and notifications.
+* [Speech Synthesis](https://github.com/Cap-go/capacitor-speech-synthesis) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-13 - Synthesize speech from text with full control over language, voice, pitch, rate, and volume.
+* [Intercom](https://github.com/Cap-go/capacitor-intercom) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Intercom SDK integration for Capacitor apps.
 
 ### Video Calling & Real-time
 
-* [Stream Call](https://github.com/Cap-go/capacitor-streamcall) ⭐ 11 | 🐛 1 | 🌐 Kotlin | 📅 2026-05-12 - Uses the getstream.io SDK to implement calling in Capacitor.
-* [RealtimeKit](https://github.com/Cap-go/capacitor-realtimekit) ⭐ 8 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-12 - Cloudflare Calls integration for Capacitor apps with built-in UI for meetings.
-* [Twilio Voice](https://github.com/Cap-go/capacitor-twilio-voice) ⭐ 7 | 🐛 9 | 🌐 Java | 📅 2026-05-12 - Integrates the Twilio Voice SDK into Capacitor.
+* [Stream Call](https://github.com/Cap-go/capacitor-streamcall) ⭐ 11 | 🐛 1 | 🌐 Kotlin | 📅 2026-05-13 - Uses the getstream.io SDK to implement calling in Capacitor.
+* [RealtimeKit](https://github.com/Cap-go/capacitor-realtimekit) ⭐ 8 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-13 - Cloudflare Calls integration for Capacitor apps with built-in UI for meetings.
+* [Twilio Voice](https://github.com/Cap-go/capacitor-twilio-voice) ⭐ 7 | 🐛 9 | 🌐 Java | 📅 2026-05-13 - Integrates the Twilio Voice SDK into Capacitor.
 
 ### Analytics & Tracking
 
-* [AdMob](https://github.com/Cap-go/capacitor-admob) ⭐ 10 | 🐛 7 | 🌐 Kotlin | 📅 2026-05-12 - Bridge AdMob SDKs for iOS and Android.
-* [GTM](https://github.com/Cap-go/capacitor-gtm) ⭐ 8 | 🐛 5 | 🌐 Swift | 📅 2026-05-12 - Google Tag Manager plugin for Capacitor.
-* [App Insights](https://github.com/Cap-go/capacitor-appinsights) ⭐ 5 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-12 - A wrapper around the Apptopia App Insights SDK.
+* [AdMob](https://github.com/Cap-go/capacitor-admob) ⭐ 10 | 🐛 7 | 🌐 Kotlin | 📅 2026-05-13 - Bridge AdMob SDKs for iOS and Android.
+* [GTM](https://github.com/Cap-go/capacitor-gtm) ⭐ 8 | 🐛 5 | 🌐 Swift | 📅 2026-05-13 - Google Tag Manager plugin for Capacitor.
+* [App Insights](https://github.com/Cap-go/capacitor-appinsights) ⭐ 5 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-13 - A wrapper around the Apptopia App Insights SDK.
 
 ### Contacts & Health
 
-* [Health](https://github.com/Cap-go/capacitor-health) ⭐ 18 | 🐛 2 | 🌐 Kotlin | 📅 2026-05-12 - Interact with data from Apple HealthKit and Health Connect.
-* [Contacts](https://github.com/Cap-go/capacitor-contacts) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2026-05-12 - Work with device contacts using Capacitor APIs.
+* [Health](https://github.com/Cap-go/capacitor-health) ⭐ 18 | 🐛 2 | 🌐 Kotlin | 📅 2026-05-13 - Interact with data from Apple HealthKit and Health Connect.
+* [Contacts](https://github.com/Cap-go/capacitor-contacts) ⭐ 6 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - Work with device contacts using Capacitor APIs.
 
 ### App Store & Market
 
-* [Native Market](https://github.com/Cap-go/capacitor-native-market) ⭐ 13 | 🐛 2 | 🌐 Swift | 📅 2026-05-12 - A native market plugin for linking to Google Play or App Store.
-* [In App Review](https://github.com/Cap-go/capacitor-in-app-review) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-12 - Prompt users to submit app store ratings and reviews without leaving your app.
+* [Native Market](https://github.com/Cap-go/capacitor-native-market) ⭐ 13 | 🐛 2 | 🌐 Swift | 📅 2026-05-13 - A native market plugin for linking to Google Play or App Store.
+* [In App Review](https://github.com/Cap-go/capacitor-in-app-review) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-13 - Prompt users to submit app store ratings and reviews without leaving your app.
 
 ### Android Specific
 
-* [Android Kiosk](https://github.com/Cap-go/capacitor-android-kiosk) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-05-12 - Lock device into kiosk mode with launcher functionality.
-* [Usage Stats Manager](https://github.com/Cap-go/capacitor-android-usagestatsmanager) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Exposes the Android's UsageStatsManager SDK.
-* [Android Age Signals](https://github.com/Cap-go/capacitor-android-age-signals) ⭐ 6 | 🐛 3 | 🌐 Java | 📅 2026-05-12 - Exposes Google Play Age Signals to your app.
-* [Android Inline Install](https://github.com/Cap-go/capacitor-android-inline-install) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-12 - Trigger Android inline install feature.
-* [Intent Launcher](https://github.com/Cap-go/capacitor-intent-launcher) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-12 - Launch Android intents and open system settings screens on Android and iOS.
+* [Android Kiosk](https://github.com/Cap-go/capacitor-android-kiosk) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - Lock device into kiosk mode with launcher functionality.
+* [Usage Stats Manager](https://github.com/Cap-go/capacitor-android-usagestatsmanager) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Exposes the Android's UsageStatsManager SDK.
+* [Android Age Signals](https://github.com/Cap-go/capacitor-android-age-signals) ⭐ 6 | 🐛 3 | 🌐 Java | 📅 2026-05-13 - Exposes Google Play Age Signals to your app.
+* [Android Inline Install](https://github.com/Cap-go/capacitor-android-inline-install) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2026-05-13 - Trigger Android inline install feature.
+* [Intent Launcher](https://github.com/Cap-go/capacitor-intent-launcher) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-13 - Launch Android intents and open system settings screens on Android and iOS.
 
 ### Platform Integrations
 
-* [Share Target](https://github.com/Cap-go/capacitor-share-target) ⭐ 15 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Receive shared content from other apps.
-* [WeChat](https://github.com/Cap-go/capacitor-wechat) ⭐ 11 | 🐛 2 | 🌐 Java | 📅 2026-05-12 - SDK for authentication, sharing, payments, and mini-programs.
-* [Watch](https://github.com/Cap-go/capacitor-watch) ⭐ 9 | 🐛 4 | 🌐 Swift | 📅 2026-05-12 - Apple Watch communication with bidirectional messaging support.
-* [Supabase](https://github.com/Cap-go/capacitor-supabase) ⭐ 6 | 🐛 1 | 🌐 Swift | 📅 2026-05-12 - Native Supabase SDK integration - Auth, Database, and JWT access.
+* [Share Target](https://github.com/Cap-go/capacitor-share-target) ⭐ 15 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Receive shared content from other apps.
+* [WeChat](https://github.com/Cap-go/capacitor-wechat) ⭐ 11 | 🐛 2 | 🌐 Java | 📅 2026-05-13 - SDK for authentication, sharing, payments, and mini-programs.
+* [Watch](https://github.com/Cap-go/capacitor-watch) ⭐ 9 | 🐛 4 | 🌐 Swift | 📅 2026-05-13 - Apple Watch communication with bidirectional messaging support.
+* [Supabase](https://github.com/Cap-go/capacitor-supabase) ⭐ 6 | 🐛 1 | 🌐 Swift | 📅 2026-05-13 - Native Supabase SDK integration - Auth, Database, and JWT access.
 
 ### Firebase
 
-* [Analytics](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/analytics/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Firebase Analytics for Capacitor.
-* [App](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Firebase App for Capacitor.
-* [App Check](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app-check/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Firebase App Check for Capacitor.
-* [Authentication](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/authentication/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Firebase Authentication for Capacitor.
-* [Crashlytics](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/crashlytics/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Firebase Crashlytics for Capacitor.
-* [Firestore](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/firestore/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Firebase Cloud Firestore for Capacitor.
-* [Functions](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/functions/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Firebase Cloud Functions for Capacitor.
-* [Messaging](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/messaging/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Firebase Cloud Messaging (FCM) for Capacitor.
-* [Performance](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/performance/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Firebase Performance Monitoring for Capacitor.
-* [Remote Config](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/remote-config/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Firebase Remote Config for Capacitor.
-* [Storage](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/storage/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-12 - Firebase Cloud Storage for Capacitor.
+* [Analytics](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/analytics/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Firebase Analytics for Capacitor.
+* [App](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Firebase App for Capacitor.
+* [App Check](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app-check/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Firebase App Check for Capacitor.
+* [Authentication](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/authentication/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Firebase Authentication for Capacitor.
+* [Crashlytics](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/crashlytics/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Firebase Crashlytics for Capacitor.
+* [Firestore](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/firestore/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Firebase Cloud Firestore for Capacitor.
+* [Functions](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/functions/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Firebase Cloud Functions for Capacitor.
+* [Messaging](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/messaging/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Firebase Cloud Messaging (FCM) for Capacitor.
+* [Performance](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/performance/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Firebase Performance Monitoring for Capacitor.
+* [Remote Config](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/remote-config/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Firebase Remote Config for Capacitor.
+* [Storage](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/storage/README.md) ⭐ 5 | 🐛 1 | 🌐 Java | 📅 2026-05-13 - Firebase Cloud Storage for Capacitor.
 
 ### Utilities
 
-* [LLM](https://github.com/Cap-go/capacitor-llm) ⭐ 24 | 🐛 2 | 🌐 Swift | 📅 2026-05-12 - Adds support for LLM locally run for Capacitor.
-* [Alarm](https://github.com/Cap-go/capacitor-alarm) ⭐ 9 | 🐛 0 | 🌐 Swift | 📅 2026-05-12 - Manage native alarms.
-* [WebView Guardian](https://github.com/Cap-go/capacitor-webview-guardian) ⭐ 7 | 🐛 2 | 🌐 Swift | 📅 2026-05-12 - Detect when the WebView was killed in the background and relaunch it on foreground.
-* [Env](https://github.com/Cap-go/capacitor-env) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-12 - Set Env var in Capacitor config and read them at runtime.
-* [WebView Version Checker](https://github.com/Cap-go/capacitor-webview-version-checker) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-05-12 - Check Android WebView version and prompt users to update when needed.
+* [LLM](https://github.com/Cap-go/capacitor-llm) ⭐ 24 | 🐛 2 | 🌐 Swift | 📅 2026-05-13 - Adds support for LLM locally run for Capacitor.
+* [Alarm](https://github.com/Cap-go/capacitor-alarm) ⭐ 9 | 🐛 0 | 🌐 Swift | 📅 2026-05-13 - Manage native alarms.
+* [WebView Guardian](https://github.com/Cap-go/capacitor-webview-guardian) ⭐ 7 | 🐛 2 | 🌐 Swift | 📅 2026-05-13 - Detect when the WebView was killed in the background and relaunch it on foreground.
+* [Env](https://github.com/Cap-go/capacitor-env) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2026-05-13 - Set Env var in Capacitor config and read them at runtime.
+* [WebView Version Checker](https://github.com/Cap-go/capacitor-webview-version-checker) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-05-13 - Check Android WebView version and prompt users to update when needed.
 
 ### Specialized Hardware
 
-* [Ricoh360 Camera](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2026-05-12 - SDK for the Ricoh360 cameras.
+* [Ricoh360 Camera](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2026-05-13 - SDK for the Ricoh360 cameras.
 
 ## Capawesome plugins
 
@@ -315,13 +315,13 @@ Independents plugins are listed here.
 
 * [Oauth2](https://github.com/moberwasserlechner/capacitor-oauth2) ⭐ 279 | 🐛 60 | 🌐 Java | 📅 2026-04-22 - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
 
-* [Purchases](https://github.com/RevenueCat/purchases-capacitor) ⭐ 230 | 🐛 19 | 🌐 TypeScript | 📅 2026-05-11 - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+* [Purchases](https://github.com/RevenueCat/purchases-capacitor) ⭐ 230 | 🐛 19 | 🌐 TypeScript | 📅 2026-05-13 - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 
 * [Rate app](https://github.com/Nodonisko/capacitor-rate-app) ⭐ 228 | 🐛 9 | 🌐 Swift | 📅 2026-04-01 - Let users rate your app using native rate app dialog for both Android and iOS.
 
 * [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) ⭐ 197 | 🐛 40 | 🌐 Java | 📅 2026-03-02 - Use biometrics confirm device owner presence or authenticate users.
 
-* [Sentry](https://github.com/getsentry/sentry-capacitor) ⭐ 145 | 🐛 34 | 🌐 TypeScript | 📅 2026-05-11 - Add Sentry error tracking and performance monitoring for Capacitor apps.
+* [Sentry](https://github.com/getsentry/sentry-capacitor) ⭐ 145 | 🐛 32 | 🌐 TypeScript | 📅 2026-05-14 - Add Sentry error tracking and performance monitoring for Capacitor apps.
 
 * [Safe Area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) ⭐ 143 | 🐛 7 | 🌐 Java | 📅 2026-01-05 - Get SafeArea info on Android and IOS.
 
@@ -337,7 +337,7 @@ Independents plugins are listed here.
 
 * [Document Scanner](https://github.com/websitebeaver/capacitor-document-scanner) ⭐ 107 | 🐛 14 | 🌐 JavaScript | 📅 2024-04-22 - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
 
-* [Data Storage SQLite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) ⭐ 100 | 🐛 6 | 🌐 Swift | 📅 2026-05-12 - Providing a key-value permanent store for simple data of type string only to SQLite on iOS, Android and Electron platforms and to IndexedDB for the Web platform.
+* [Data Storage SQLite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) ⭐ 100 | 🐛 6 | 🌐 Swift | 📅 2026-05-13 - Providing a key-value permanent store for simple data of type string only to SQLite on iOS, Android and Electron platforms and to IndexedDB for the Web platform.
 
 * [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) ⭐ 95 | 🐛 4 | 🌐 Java | 📅 2026-04-23 - Make video calls through the free, open-sourced Jitsi video platform.
 
@@ -428,21 +428,21 @@ This list will be upgraded soon
 
 * [`cordova-plugin-code-push`](https://github.com/microsoft/code-push) ⚠️ Archived ([see details](https://github.com/microsoft/code-push/issues/615) ⚠️ Archived)
 * [`cordova-plugin-googlemaps`](https://github.com/mapsplugin/cordova-plugin-googlemaps) ⭐ 1,667 | 🐛 107 | 🌐 JavaScript | 📅 2024-06-10 (causes build failures on iOS, skipped for iOS only)
-* [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ⭐ 1,000 | 🐛 250 | 🌐 Objective-C | 📅 2024-07-09 ([see details](https://github.com/ionic-team/capacitor/issues/815) ⭐ 15,657 | 🐛 119 | 🌐 TypeScript | 📅 2026-05-12)
+* [`cordova-plugin-firebase`](https://github.com/arnesson/cordova-plugin-firebase) ⭐ 1,001 | 🐛 250 | 🌐 Objective-C | 📅 2024-07-09 ([see details](https://github.com/ionic-team/capacitor/issues/815) ⭐ 15,661 | 🐛 117 | 🌐 TypeScript | 📅 2026-05-13)
 * [`cordova-plugin-crosswalk-webview`](https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview) ⚠️ Archived (Capacitor doesn't allow to change the webview)
-* [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ⭐ 721 | 🐛 62 | 🌐 Java | 📅 2023-07-19 ([see details](https://github.com/ionic-team/capacitor/issues/1101) ⭐ 15,657 | 🐛 119 | 🌐 TypeScript | 📅 2026-05-12)
+* [`cordova-plugin-admobpro`](https://github.com/floatinghotpot/cordova-admob-pro) ⭐ 721 | 🐛 62 | 🌐 Java | 📅 2023-07-19 ([see details](https://github.com/ionic-team/capacitor/issues/1101) ⭐ 15,661 | 🐛 117 | 🌐 TypeScript | 📅 2026-05-13)
 * [`cordova-plugin-splashscreen`](https://github.com/apache/cordova-plugin-splashscreen) ⭐ 638 | 🐛 8 | 🌐 JavaScript | 📅 2023-09-13 (not needed, Capacitor has its own)
-* [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ⭐ 620 | 🐛 468 | 🌐 Objective-C | 📅 2021-10-19 ([see details](https://github.com/ionic-team/capacitor/issues/584) ⭐ 15,657 | 🐛 119 | 🌐 TypeScript | 📅 2026-05-12)
+* [`cordova-plugin-fcm`](https://github.com/fechanique/cordova-plugin-fcm) ⭐ 620 | 🐛 468 | 🌐 Objective-C | 📅 2021-10-19 ([see details](https://github.com/ionic-team/capacitor/issues/584) ⭐ 15,661 | 🐛 117 | 🌐 TypeScript | 📅 2026-05-13)
 * [`cordova-plugin-statusbar`](https://github.com/apache/cordova-plugin-statusbar) ⭐ 615 | 🐛 35 | 🌐 Objective-C | 📅 2025-11-14 (not needed, Capacitor has its own)
 * [`cordova-plugin-wkwebview-engine`](https://github.com/apache/cordova-plugin-wkwebview-engine) ⚠️ Archived (not needed, Capacitor uses WKWebView)
-* [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ⭐ 581 | 🐛 207 | 🌐 JavaScript | 📅 2023-09-01 ([see details](https://github.com/ionic-team/capacitor/issues/1213) ⭐ 15,657 | 🐛 119 | 🌐 TypeScript | 📅 2026-05-12)
+* [`cordova-plugin-qrscanner`](https://github.com/bitpay/cordova-plugin-qrscanner) ⭐ 581 | 🐛 207 | 🌐 JavaScript | 📅 2023-09-01 ([see details](https://github.com/ionic-team/capacitor/issues/1213) ⭐ 15,661 | 🐛 117 | 🌐 TypeScript | 📅 2026-05-13)
 * [`cordova-plugin-ionic-webview`](https://github.com/ionic-team/cordova-plugin-ionic-webview) ⭐ 495 | 🐛 173 | 🌐 Objective-C | 📅 2026-01-22 (not needed, Capacitor uses WKWebView)
 * [`cordova-plugin-ionic-keyboard`](https://github.com/ionic-team/cordova-plugin-ionic-keyboard) ⭐ 193 | 🐛 76 | 🌐 Objective-C | 📅 2023-09-28 (not needed, Capacitor has it's own)
 * [`cordova-plugin-music-controls`](https://github.com/homerours/cordova-music-controls-plugin) ⭐ 154 | 🐛 70 | 🌐 Java | 📅 2019-10-14 (causes build failures, skipped)
 * [`cordova-plugin-console`](https://github.com/apache/cordova-plugin-console) ⚠️ Archived (not needed, Capacitor has its own)
 * [`cordova-plugin-add-swift-support`](https://github.com/akofman/cordova-plugin-add-swift-support) ⭐ 117 | 🐛 31 | 🌐 JavaScript | 📅 2024-01-12 (not needed, Capacitor has built in Swift support)
 * [`cordova-plugin-compat`](https://github.com/apache/cordova-plugin-compat) ⚠️ Archived (not needed)
-* [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ⭐ 27 | 🐛 50 | 🌐 Objective-C | 📅 2020-06-11 ([see details](https://github.com/ionic-team/capacitor/issues/1415) ⭐ 15,657 | 🐛 119 | 🌐 TypeScript | 📅 2026-05-12)
+* [`cordova-plugin-braintree`](https://github.com/Taracque/cordova-plugin-braintree) ⭐ 27 | 🐛 50 | 🌐 Objective-C | 📅 2020-06-11 ([see details](https://github.com/ionic-team/capacitor/issues/1415) ⭐ 15,661 | 🐛 117 | 🌐 TypeScript | 📅 2026-05-13)
 
 ## Tools
 
@@ -506,7 +506,7 @@ Places to learn about Capacitor
 * [capacitor-plugin-demo](https://github.com/robingenz/capacitor-plugin-demo) ⭐ 124 | 🐛 5 | 🌐 TypeScript | 📅 2026-03-01 - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
 * [capacitor-testapp](https://github.com/ionic-team/capacitor-testapp) ⭐ 40 | 🐛 18 | 🌐 TypeScript | 📅 2026-05-08 - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
 * [capacitor-firebase-plugin-demo](https://github.com/robingenz/capacitor-firebase-plugin-demo) ⭐ 22 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-30 - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
-* [capacitor-updater-plugin-demo](https://github.com/Cap-go/demo-app) ⭐ 6 | 🐛 1 | 🌐 Vue | 📅 2026-03-19 - Simple Ionic Vue app to demonstrate the use of OTA updates.
+* [capacitor-updater-plugin-demo](https://github.com/Cap-go/demo-app) ⭐ 6 | 🐛 1 | 🌐 Vue | 📅 2026-05-13 - Simple Ionic Vue app to demonstrate the use of OTA updates.
 
 ## Community
 
