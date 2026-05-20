@@ -383,7 +383,7 @@
             "last_commit": "2026-03-11T03:37:24Z",
             "owner": "capacitor-community",
             "repo": "bluetooth-le",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -887,10 +887,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-17T10:01:52Z",
+            "last_commit": "2026-05-20T00:51:14Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 760
+            "stars": 761
           }
         },
         {
@@ -1097,7 +1097,7 @@
             "last_commit": "2026-05-13T15:06:05Z",
             "owner": "Cap-go",
             "repo": "capacitor-audio-recorder",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -1534,7 +1534,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-16T12:00:17Z",
+            "last_commit": "2026-05-20T00:17:56Z",
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
             "stars": 123
@@ -1630,7 +1630,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-18T12:59:05Z",
+            "last_commit": "2026-05-19T23:26:57Z",
             "owner": "Cap-go",
             "repo": "capacitor-transitions",
             "stars": 7
@@ -1732,8 +1732,8 @@
           "title": "NFC",
           "repo_info": {
             "archived": false,
-            "language": "Java",
-            "last_commit": "2026-05-18T15:57:08Z",
+            "language": "Swift",
+            "last_commit": "2026-05-19T23:25:27Z",
             "owner": "Cap-go",
             "repo": "capacitor-nfc",
             "stars": 21
@@ -1862,7 +1862,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-05-18T13:37:28Z",
+            "last_commit": "2026-05-19T19:27:12Z",
             "owner": "Cap-go",
             "repo": "capacitor-admob",
             "stars": 10
@@ -1920,7 +1920,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-05-18T18:13:06Z",
+            "last_commit": "2026-05-19T11:28:14Z",
             "owner": "Cap-go",
             "repo": "capacitor-health",
             "stars": 18
@@ -3060,7 +3060,7 @@
             "last_commit": "2026-03-03T00:27:59Z",
             "owner": "tavosansal",
             "repo": "capacitor-plugin-send-intent",
-            "stars": 12
+            "stars": 13
           }
         },
         {
@@ -3070,7 +3070,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-19T01:01:04Z",
+            "last_commit": "2026-05-19T07:57:55Z",
             "owner": "getsentry",
             "repo": "sentry-capacitor",
             "stars": 145
@@ -3558,7 +3558,7 @@
             "last_commit": "2026-01-22T11:38:23Z",
             "owner": "ionic-team",
             "repo": "capacitor-assets",
-            "stars": 581
+            "stars": 582
           }
         },
         {
@@ -3690,7 +3690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T06:02:08.478Z",
+    "last_updated": "2026-05-20T06:02:21.986Z",
     "original_repository": "riderx/awesome-capacitor",
     "source_repository": "v1nvn/enhansome-capacitor",
     "source_repository_description": null,
