@@ -380,7 +380,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-11T03:37:24Z",
+            "last_commit": "2026-05-25T09:38:26Z",
             "owner": "capacitor-community",
             "repo": "bluetooth-le",
             "stars": 355
@@ -684,7 +684,7 @@
             "last_commit": "2026-04-09T01:06:48Z",
             "owner": "capacitor-community",
             "repo": "native-audio",
-            "stars": 151
+            "stars": 152
           }
         },
         {
@@ -785,7 +785,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-23T10:33:21Z",
+            "last_commit": "2026-05-25T07:14:07Z",
             "owner": "capacitor-community",
             "repo": "sqlite",
             "stars": 655
@@ -1120,7 +1120,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-25T02:51:15Z",
+            "last_commit": "2026-05-25T06:55:18Z",
             "owner": "Cap-go",
             "repo": "capacitor-audiosession",
             "stars": 7
@@ -1405,7 +1405,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-25T02:51:51Z",
+            "last_commit": "2026-05-26T01:26:15Z",
             "owner": "Cap-go",
             "repo": "capacitor-launch-navigator",
             "stars": 8
@@ -1453,7 +1453,7 @@
             "last_commit": "2026-05-24T10:08:06Z",
             "owner": "Cap-go",
             "repo": "capacitor-native-biometric",
-            "stars": 73
+            "stars": 74
           }
         },
         {
@@ -1534,7 +1534,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-25T02:44:27Z",
+            "last_commit": "2026-05-25T20:03:54Z",
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
             "stars": 124
@@ -1630,7 +1630,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-25T02:45:43Z",
+            "last_commit": "2026-05-25T10:59:20Z",
             "owner": "Cap-go",
             "repo": "capacitor-transitions",
             "stars": 11
@@ -1746,7 +1746,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-24T11:05:55Z",
+            "last_commit": "2026-05-25T20:04:35Z",
             "owner": "Cap-go",
             "repo": "capacitor-bluetooth-low-energy",
             "stars": 6
@@ -2081,7 +2081,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-25T02:40:44Z",
+            "last_commit": "2026-05-25T07:05:15Z",
             "owner": "Cap-go",
             "repo": "capacitor-share-target",
             "stars": 16
@@ -2304,7 +2304,7 @@
             "last_commit": "2026-05-24T10:07:53Z",
             "owner": "Cap-go",
             "repo": "capacitor-llm",
-            "stars": 32
+            "stars": 33
           }
         }
       ],
@@ -3070,7 +3070,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-22T20:02:56Z",
+            "last_commit": "2026-05-25T21:34:31Z",
             "owner": "getsentry",
             "repo": "sentry-capacitor",
             "stars": 145
@@ -3690,7 +3690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-25T06:21:58.869Z",
+    "last_updated": "2026-05-26T06:01:48.559Z",
     "original_repository": "riderx/awesome-capacitor",
     "source_repository": "v1nvn/enhansome-capacitor",
     "source_repository_description": null,
