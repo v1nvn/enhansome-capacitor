@@ -318,7 +318,7 @@
             "last_commit": "2026-05-12T00:17:22Z",
             "owner": "capacitor-community",
             "repo": "admob",
-            "stars": 287
+            "stars": 288
           }
         },
         {
@@ -383,7 +383,7 @@
             "last_commit": "2026-05-25T09:38:26Z",
             "owner": "capacitor-community",
             "repo": "bluetooth-le",
-            "stars": 355
+            "stars": 356
           }
         },
         {
@@ -589,10 +589,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-04-23T04:30:51Z",
+            "last_commit": "2026-05-27T04:24:57Z",
             "owner": "capacitor-community",
             "repo": "keep-awake",
-            "stars": 174
+            "stars": 175
           }
         },
         {
@@ -736,7 +736,7 @@
             "last_commit": "2023-02-28T23:54:15Z",
             "owner": "capacitor-community",
             "repo": "react-hooks",
-            "stars": 266
+            "stars": 265
           }
         },
         {
@@ -1198,7 +1198,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-24T12:45:45Z",
+            "last_commit": "2026-05-26T16:28:23Z",
             "owner": "Cap-go",
             "repo": "capacitor-ivs-player",
             "stars": 9
@@ -1211,7 +1211,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-05-24T10:21:18Z",
+            "last_commit": "2026-05-26T17:43:57Z",
             "owner": "Cap-go",
             "repo": "capacitor-jw-player",
             "stars": 8
@@ -1479,7 +1479,7 @@
             "last_commit": "2026-05-25T02:42:03Z",
             "owner": "Cap-go",
             "repo": "capacitor-social-login",
-            "stars": 206
+            "stars": 208
           }
         },
         {
@@ -1537,7 +1537,7 @@
             "last_commit": "2026-05-25T20:03:54Z",
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -1565,7 +1565,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-25T02:40:02Z",
+            "last_commit": "2026-05-26T16:26:41Z",
             "owner": "Cap-go",
             "repo": "capacitor-home-indicator",
             "stars": 8
@@ -1830,7 +1830,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-25T02:44:07Z",
+            "last_commit": "2026-05-26T12:09:13Z",
             "owner": "Cap-go",
             "repo": "capacitor-realtimekit",
             "stars": 9
@@ -2651,7 +2651,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-21T14:28:52Z",
+            "last_commit": "2026-05-27T03:47:59Z",
             "owner": "RevenueCat",
             "repo": "purchases-capacitor",
             "stars": 230
@@ -2703,7 +2703,7 @@
               "description": "Firebase Dynamic Links.",
               "title": "Dynamic Links",
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "language": "Swift",
                 "last_commit": "2024-08-28T18:31:19Z",
                 "owner": "Pantrist-dev",
@@ -2838,7 +2838,7 @@
             "last_commit": "2025-02-13T12:50:07Z",
             "owner": "perfood",
             "repo": "capacitor-healthkit",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -3070,7 +3070,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-25T21:34:31Z",
+            "last_commit": "2026-05-26T09:58:23Z",
             "owner": "getsentry",
             "repo": "sentry-capacitor",
             "stars": 145
@@ -3568,7 +3568,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-25T03:00:07Z",
+            "last_commit": "2026-05-26T12:10:30Z",
             "owner": "Cap-go",
             "repo": "tailwind-capacitor",
             "stars": 21
@@ -3646,7 +3646,7 @@
             "last_commit": "2026-03-01T09:36:14Z",
             "owner": "capawesome-team",
             "repo": "capacitor-plugin-demo",
-            "stars": 125
+            "stars": 126
           }
         },
         {
@@ -3690,7 +3690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-26T06:01:48.559Z",
+    "last_updated": "2026-05-27T06:15:13.038Z",
     "original_repository": "riderx/awesome-capacitor",
     "source_repository": "v1nvn/enhansome-capacitor",
     "source_repository_description": null,
