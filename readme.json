@@ -357,7 +357,7 @@
             "last_commit": "2025-08-28T11:45:02Z",
             "owner": "capacitor-community",
             "repo": "background-geolocation",
-            "stars": 243
+            "stars": 242
           }
         },
         {
@@ -409,7 +409,7 @@
             "last_commit": "2026-05-08T12:55:09Z",
             "owner": "capacitor-community",
             "repo": "google-maps",
-            "stars": 162
+            "stars": 163
           }
         },
         {
@@ -887,7 +887,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-30T22:53:33Z",
+            "last_commit": "2026-05-31T20:38:49Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 768
@@ -1068,7 +1068,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-29T15:59:02Z",
+            "last_commit": "2026-06-01T05:24:18Z",
             "owner": "Cap-go",
             "repo": "capacitor-camera-preview",
             "stars": 44
@@ -1146,7 +1146,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-29T23:37:10Z",
+            "last_commit": "2026-06-01T05:32:51Z",
             "owner": "Cap-go",
             "repo": "capacitor-video-player",
             "stars": 11
@@ -1843,7 +1843,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-05-29T16:15:47Z",
+            "last_commit": "2026-06-01T05:29:36Z",
             "owner": "Cap-go",
             "repo": "capacitor-twilio-voice",
             "stars": 8
@@ -1862,7 +1862,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-05-29T23:48:54Z",
+            "last_commit": "2026-06-01T05:16:32Z",
             "owner": "Cap-go",
             "repo": "capacitor-admob",
             "stars": 11
@@ -2651,7 +2651,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-28T16:24:47Z",
+            "last_commit": "2026-06-01T06:46:24Z",
             "owner": "RevenueCat",
             "repo": "purchases-capacitor",
             "stars": 230
@@ -3318,7 +3318,7 @@
             "last_commit": "2023-07-19T18:39:06Z",
             "owner": "floatinghotpot",
             "repo": "cordova-admob-pro",
-            "stars": 719
+            "stars": 720
           }
         },
         {
@@ -3513,7 +3513,7 @@
             "last_commit": "2024-06-10T10:25:25Z",
             "owner": "mapsplugin",
             "repo": "cordova-plugin-googlemaps",
-            "stars": 1667
+            "stars": 1668
           }
         }
       ],
@@ -3558,7 +3558,7 @@
             "last_commit": "2026-01-22T11:38:23Z",
             "owner": "ionic-team",
             "repo": "capacitor-assets",
-            "stars": 582
+            "stars": 581
           }
         },
         {
@@ -3690,7 +3690,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-31T06:12:57.588Z",
+    "last_updated": "2026-06-01T06:49:56.068Z",
     "original_repository": "riderx/awesome-capacitor",
     "source_repository": "v1nvn/enhansome-capacitor",
     "source_repository_description": null,
