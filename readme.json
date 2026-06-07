@@ -357,7 +357,7 @@
             "last_commit": "2025-08-28T11:45:02Z",
             "owner": "capacitor-community",
             "repo": "background-geolocation",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -887,7 +887,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-05T09:56:23Z",
+            "last_commit": "2026-06-06T23:13:36Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 769
@@ -932,7 +932,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-04T21:47:01Z",
+            "last_commit": "2026-06-06T08:05:34Z",
             "owner": "Cap-go",
             "repo": "capacitor-age-range",
             "stars": 2
@@ -1068,7 +1068,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-05T17:59:30Z",
+            "last_commit": "2026-06-06T22:45:38Z",
             "owner": "Cap-go",
             "repo": "capacitor-camera-preview",
             "stars": 44
@@ -1295,7 +1295,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-04T21:46:39Z",
+            "last_commit": "2026-06-06T22:30:03Z",
             "owner": "Cap-go",
             "repo": "capacitor-file",
             "stars": 4
@@ -1337,7 +1337,7 @@
             "last_commit": "2026-06-04T22:08:32Z",
             "owner": "Cap-go",
             "repo": "capacitor-downloader",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -1382,7 +1382,7 @@
             "last_commit": "2026-06-04T21:53:18Z",
             "owner": "Cap-go",
             "repo": "capacitor-background-geolocation",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -1550,7 +1550,7 @@
             "last_commit": "2026-06-04T22:24:33Z",
             "owner": "Cap-go",
             "repo": "capacitor-live-activities",
-            "stars": 2
+            "stars": 3
           }
         },
         {
@@ -2079,7 +2079,7 @@
             "last_commit": "2026-06-04T22:01:22Z",
             "owner": "Cap-go",
             "repo": "capacitor-watch",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -3237,7 +3237,7 @@
             "last_commit": "2026-05-22T21:50:53Z",
             "owner": "ebarooni",
             "repo": "capacitor-calendar",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -3250,7 +3250,7 @@
             "last_commit": "2026-01-18T22:51:48Z",
             "owner": "tchvu3",
             "repo": "capacitor-voice-recorder",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -3698,7 +3698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-06T05:50:15.272Z",
+    "last_updated": "2026-06-07T06:18:32.391Z",
     "original_repository": "riderx/awesome-capacitor",
     "source_repository": "v1nvn/enhansome-capacitor",
     "source_repository_description": null,
