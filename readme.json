@@ -383,7 +383,7 @@
             "last_commit": "2026-05-25T09:38:26Z",
             "owner": "capacitor-community",
             "repo": "bluetooth-le",
-            "stars": 355
+            "stars": 356
           }
         },
         {
@@ -489,7 +489,7 @@
                 "last_commit": "2026-03-20T07:05:35Z",
                 "owner": "capacitor-community",
                 "repo": "firebase-analytics",
-                "stars": 176
+                "stars": 177
               }
             },
             {
@@ -540,7 +540,7 @@
             "last_commit": "2026-03-20T07:05:35Z",
             "owner": "capacitor-community",
             "repo": "firebase-analytics",
-            "stars": 176
+            "stars": 177
           }
         },
         {
@@ -890,7 +890,7 @@
             "last_commit": "2026-06-12T21:11:34Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 774
+            "stars": 777
           }
         },
         {
@@ -1347,7 +1347,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-11T21:54:02Z",
+            "last_commit": "2026-06-13T11:04:07Z",
             "owner": "Cap-go",
             "repo": "capacitor-uploader",
             "stars": 24
@@ -1534,7 +1534,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-06-12T20:58:00Z",
+            "last_commit": "2026-06-13T15:14:00Z",
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
             "stars": 125
@@ -3016,7 +3016,7 @@
             "last_commit": "2026-04-01T04:48:39Z",
             "owner": "capacitor-community",
             "repo": "in-app-review",
-            "stars": 231
+            "stars": 232
           }
         },
         {
@@ -3234,7 +3234,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-06-11T20:53:37Z",
+            "last_commit": "2026-06-13T21:07:07Z",
             "owner": "ebarooni",
             "repo": "capacitor-calendar",
             "stars": 83
@@ -3566,7 +3566,7 @@
             "last_commit": "2026-01-22T11:38:23Z",
             "owner": "ionic-team",
             "repo": "capacitor-assets",
-            "stars": 580
+            "stars": 581
           }
         },
         {
@@ -3698,7 +3698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-13T06:11:53.477Z",
+    "last_updated": "2026-06-14T06:29:28.351Z",
     "original_repository": "riderx/awesome-capacitor",
     "source_repository": "v1nvn/enhansome-capacitor",
     "source_repository_description": null,
